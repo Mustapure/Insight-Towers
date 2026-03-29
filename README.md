@@ -100,7 +100,5 @@ php -S localhost:8000
 ## 📄 License
 This project is open-source under MIT License. See [LICENSE](LICENSE) file for details.
 
----
-
 **Built with ❤️ for research excellence** | © 2025 Insight Towers
 
